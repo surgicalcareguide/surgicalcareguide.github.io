@@ -1,15 +1,15 @@
 # Surgical Care Guide
 
-This is the homepage for our new guide. You can see an example chapter below.
+This is an example homepage for the new guide. You can see a draft chapter below.
 
-# [Example - RUQ Pain](https://fergustaylor.github.io/dev/resources/)
+# [Example - RUQ Pain](https://surgicalcareguide.github.io/example.pdf)
 
-<a href="https://fergustaylor.github.io/dev/resources/">
-<img src="./resources/resources.png" alt="" style="width:100%;height:auto;">
+<a href="https://surgicalcareguide.github.io/example.pdf">
+<img src="./resources/example.png" alt="" style="width:100%;height:auto;">
 </a>
 
-# [Example 2](https://fergustaylor.github.io/dev/50 Drugs/)
+# [Example 2 - RUQ Pain](https://surgicalcareguide.github.io/example.pdf)
 
-<a href="https://fergustaylor.github.io/dev/50 Drugs/">
-<img src="./resources/50drugs.png" alt="" style="width:100%;height:auto;">
+<a href="https://surgicalcareguide.github.io/example.pdf">
+<img src="./resources/example2.png" alt="" style="width:100%;height:auto;">
 </a>
