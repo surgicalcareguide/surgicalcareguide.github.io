@@ -1,3 +1,4 @@
-remote_theme: surgicalcareguide/minimal
+theme: jekyll-theme-minimal
 title: Surgical Care Guide
 description: An NHS Tayside Project to prepare Medical students and Junior Doctors for acute surgical scenarios.
+google_analytics: UA-107299466-1
