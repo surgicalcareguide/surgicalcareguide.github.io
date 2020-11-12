@@ -17,10 +17,9 @@
     <div class="wrapper">
       <header id="header">
         {% if site.logo %}
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-          <a href="https://surgicalcareguide.github.io" class="image avatar"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
+        <a href="https://surgicalcareguide.github.io" class="image avatar"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
         {% endif %}
-
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <!-- {% if site.github.is_project_page %}
