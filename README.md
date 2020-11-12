@@ -1,5 +1,3 @@
-# Surgical Care Guide
-
 This is an example homepage for the new guide. You can see a draft chapter below.
 
 # [Example - RUQ Pain](https://surgicalcareguide.github.io/example.pdf)
